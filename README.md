@@ -1,12 +1,12 @@
-## A basic example of Restful API with Node + Express + MongoDB
+# A basic example of Restful API with Node + Express + MongoDB
 
-   ### Requirements:-
+   ## Requirements:-
    
     MongoDb needs to be running in order to execute the program
 
 
 
-   ### Steps for Author:-
+   ## Steps for Author:-
 
     `http://localhost:8080/booktownapi/` - This is the home... however nothing is defined here
 
